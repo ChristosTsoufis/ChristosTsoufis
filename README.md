@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChristosTsoufis.ChristosTsoufis">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;This+is+Christos;&center=true&size=30">
@@ -23,7 +21,7 @@
 </p>
 
 <hr>
-<h2 align="center"> Languages, Frameworks, Tools and Abilities </h2>
+<h2 align="center"> Main Languages, Frameworks, Tools and Abilities </h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
