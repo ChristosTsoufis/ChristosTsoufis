@@ -49,8 +49,7 @@
 
 <hr>
 
-| [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&theme=algolia&langs_count=5&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosTsoufis?tab=repositories) |
-|:-:|:-:|
+[![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&theme=react&langs_count=5&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosTsoufis?tab=repositories)
 
 <p align="center">
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ChristosTsoufis&color=yellow&style=flat&label=visitors" />
