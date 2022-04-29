@@ -49,7 +49,7 @@
 
 <hr>
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosTsoufis&show_icons=true&theme=algolia&count_private=true&line_height=40)](https://github.com/ChristosTsoufis?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&theme=algolia&langs_count=5&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosTsoufis?tab=repositories) |
+| [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&theme=algolia&langs_count=5&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosTsoufis?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
