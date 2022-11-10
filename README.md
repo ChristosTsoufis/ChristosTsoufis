@@ -29,16 +29,11 @@
 <img width="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img width="30" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img width="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img width="30" src="https://smlnj.org/images/smlnj-logo.png"/>
-<img width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"/>
-<img width="30" src="https://mohammadijoo.ir/image/Assembly-logo.png"/>
 </p> 
 
 <h4> Full Stack </h4>
 <p align="left">
-<img width="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img width="30" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 <img width="30" src="https://iconape.com/wp-content/files/er/67134/svg/highcharts.svg"/>
@@ -84,6 +79,3 @@
 	<img alt="Followers" src="https://img.shields.io/github/followers/ChristosTsoufis?color=yellow" />
 	<img alt="Stars" src="https://img.shields.io/github/stars/ChristosTsoufis?color=yellow" />
 </p>
-
-<!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems)](https://github.com/ChristosTsoufis/github-readme-stats)
