@@ -20,22 +20,11 @@
   📫 How to reach me: <a href="mailto: chris99ts@gmail.com">chris99ts@gmail.com</a>
 </p>
 
-<hr>
+
 <!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems
 )](https://github.com/ChristosTsoufis/github-readme-stats)
-<hr>
 
-<hr>
-<h2 align="center"> Main Languages, Frameworks, Tools and Abilities </h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>  
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-</p>
-<hr>
 
 <h2 align="left">Languages and Tools:</h2>
 <h4> Languages </h4>
