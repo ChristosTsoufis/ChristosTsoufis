@@ -21,11 +21,6 @@
 </p>
 
 
-<!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems
-)](https://github.com/ChristosTsoufis/github-readme-stats)
-
-
 <h2 align="left">Languages and Tools:</h2>
 <h4> Languages </h4>
 <p align="left">
@@ -89,3 +84,6 @@
 	<img alt="Followers" src="https://img.shields.io/github/followers/ChristosTsoufis?color=yellow" />
 	<img alt="Stars" src="https://img.shields.io/github/stars/ChristosTsoufis?color=yellow" />
 </p>
+
+<!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems)](https://github.com/ChristosTsoufis/github-readme-stats)
