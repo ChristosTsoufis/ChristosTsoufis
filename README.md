@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;This+is+Christos;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I'm+Christos;&center=true&size=30">
   </a>
 </h1>
 
@@ -21,6 +21,12 @@
 </p>
 
 <hr>
+<!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosTsoufis&hide=jupyter%20notebook&langs_count=10&layout=compact&exclude_repo=ntua-operating-systems
+)](https://github.com/ChristosTsoufis/github-readme-stats)
+<hr>
+
+<hr>
 <h2 align="center"> Main Languages, Frameworks, Tools and Abilities </h2>
 <br>
 <p align="center">
@@ -30,6 +36,44 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 <hr>
+
+<h2 align="left">Languages and Tools:</h2>
+<h4> Languages </h4>
+<p align="left">
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img width="30" src="https://smlnj.org/images/smlnj-logo.png"/>
+<img width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png"/>
+<img width="30" src="https://mohammadijoo.ir/image/Assembly-logo.png"/>
+</p> 
+
+<h4> Full Stack </h4>
+<p align="left">
+<img width="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img width="30" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+<img width="30" src="https://iconape.com/wp-content/files/er/67134/svg/highcharts.svg"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img width="30" src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667"/>
+<img width="30" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>
+</p>
+
+<h4> Cloud </h4>
+<p align="left">
+<img width="30" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+</p>
+
+<h4> Other </h4>
+<p align="left">
+<img width="30" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img width="30" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img width="30" src="https://img.icons8.com/color/48/000000/bash.png"/>
+</p>
 
 <h2 align="center"> Statistics </h2>
 <br>
