@@ -10,7 +10,7 @@
   </h5>
 <br>
 <p align="center">
-  Hi, I'm Christos
+  Hello there!
   <br>
   <br>
   🔬 I'm studying Electrical & Computer Engineering at National Technical University of Athens.
