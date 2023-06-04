@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christostsoufis" alt="christostsoufis" /></a> </p>
 
-- 🔭 I’m currently working on **my Diploma Thesis**
-
 - 📫 How to reach me **chris99ts@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christos-tsoufis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christos-tsoufis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9438652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9438652" height="30" width="40" /></a>
-<a href="https://fb.com/christos.tsoufis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christos.tsoufis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
