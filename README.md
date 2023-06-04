@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Christos!</h1>
+<h1 align="center">Hi, I'm Christos!</h1>
 <h4 align="center">Electrical & Computer Engineering at National Technical University of Athens, Greece</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christostsoufis&label=Profile%20views&color=0e75b6&style=flat" alt="christostsoufis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christostsoufis" alt="christostsoufis" /></a> </p>
-
-- 📫 How to reach me **chris99ts@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
