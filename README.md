@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Christos!</h1>
-<h4 align="center">I'm studying Electrical & Computer Engineering at National Technical University of Athens, Greece</h4>
+<h4 align="center">Electrical & Computer Engineering at National Technical University of Athens, Greece</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christostsoufis&label=Profile%20views&color=0e75b6&style=flat" alt="christostsoufis" /> </p>
 
