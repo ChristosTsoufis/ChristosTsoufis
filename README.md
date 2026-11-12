@@ -31,15 +31,6 @@
 
 ---
 
-## About me
-
-- 🎓 PhD student in **Algorithmic Game Theory / Theoretical CS**
-- 🔬 Interests: **congestion games**, **Deep RL**, **Network Security**, and related optimization/game dynamics
-- 🧑‍🏫 Teaching & building reproducible code for experiments (Python-heavy, modular projects)
-- 🤝 Always happy to chat/collaborate on theory + experiments when the problem is crisp
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
