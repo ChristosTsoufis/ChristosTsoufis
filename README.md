@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Christos 👋</h1>
-<h3 align="center">PhD Student in Theoretical Computer Science · LAMSADE · Université Paris Dauphine – PSL</h3>
+<h3 align="center">PhD Student in Computer Science · LIX/Comète · Institut Polytechnique de Paris</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristosTsoufis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
